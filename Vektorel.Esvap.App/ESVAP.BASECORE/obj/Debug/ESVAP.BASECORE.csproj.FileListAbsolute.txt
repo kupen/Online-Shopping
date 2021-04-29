@@ -1,0 +1,20 @@
+D:\Betül\Vektorel.Esvap.App\ESVAP.BASECORE\bin\Debug\ESVAP.BASECORE.dll
+D:\Betül\Vektorel.Esvap.App\ESVAP.BASECORE\bin\Debug\ESVAP.BASECORE.pdb
+D:\Betül\Vektorel.Esvap.App\ESVAP.BASECORE\obj\Debug\ESVAP.BASECORE.csprojResolveAssemblyReference.cache
+D:\Betül\Vektorel.Esvap.App\ESVAP.BASECORE\obj\Debug\ESVAP.BASECORE.dll
+D:\Betül\Vektorel.Esvap.App\ESVAP.BASECORE\obj\Debug\ESVAP.BASECORE.pdb
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\ESVAP.BASECORE\bin\Debug\ESVAP.BASECORE.dll
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\ESVAP.BASECORE\bin\Debug\ESVAP.BASECORE.pdb
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\ESVAP.BASECORE\obj\Debug\ESVAP.BASECORE.csprojResolveAssemblyReference.cache
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\ESVAP.BASECORE\obj\Debug\ESVAP.BASECORE.dll
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\ESVAP.BASECORE\obj\Debug\ESVAP.BASECORE.pdb
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\ESVAP.BASECORE\bin\Debug\ESVAP.BASECORE.dll.config
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\ESVAP.BASECORE\bin\Debug\ESVAP.BASECORE.dll
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\ESVAP.BASECORE\bin\Debug\ESVAP.BASECORE.pdb
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\ESVAP.BASECORE\bin\Debug\EntityFramework.dll
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\ESVAP.BASECORE\bin\Debug\EntityFramework.SqlServer.dll
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\ESVAP.BASECORE\bin\Debug\EntityFramework.xml
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\ESVAP.BASECORE\bin\Debug\EntityFramework.SqlServer.xml
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\ESVAP.BASECORE\obj\Debug\ESVAP.BASECORE.csprojResolveAssemblyReference.cache
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\ESVAP.BASECORE\obj\Debug\ESVAP.BASECORE.dll
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\ESVAP.BASECORE\obj\Debug\ESVAP.BASECORE.pdb

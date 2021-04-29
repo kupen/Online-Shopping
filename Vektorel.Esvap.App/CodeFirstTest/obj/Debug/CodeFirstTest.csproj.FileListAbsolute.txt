@@ -1,0 +1,44 @@
+D:\Betül\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\CodeFirstTest.exe.config
+D:\Betül\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\CodeFirstTest.exe
+D:\Betül\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\CodeFirstTest.pdb
+D:\Betül\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\EntityFramework.dll
+D:\Betül\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\Betül\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\Vektorel.Esvap.Domain.dll
+D:\Betül\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\ESVAP.BASECORE.dll
+D:\Betül\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\Vektorel.Esvap.Domain.pdb
+D:\Betül\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\EntityFramework.xml
+D:\Betül\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\Betül\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\ESVAP.BASECORE.pdb
+D:\Betül\Vektorel.Esvap.App\CodeFirstTest\obj\Debug\CodeFirstTest.csprojResolveAssemblyReference.cache
+D:\Betül\Vektorel.Esvap.App\CodeFirstTest\obj\Debug\CodeFirstTest.exe
+D:\Betül\Vektorel.Esvap.App\CodeFirstTest\obj\Debug\CodeFirstTest.pdb
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\CodeFirstTest.exe.config
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\obj\Debug\CodeFirstTest.exe
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\obj\Debug\CodeFirstTest.pdb
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\CodeFirstTest.exe
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\CodeFirstTest.pdb
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\EntityFramework.dll
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\Vektorel.Esvap.Domain.dll
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\ESVAP.BASECORE.dll
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\Vektorel.Esvap.Domain.pdb
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\EntityFramework.xml
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\ESVAP.BASECORE.pdb
+D:\SonerHoca\17 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\obj\Debug\CodeFirstTest.csprojResolveAssemblyReference.cache
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\CodeFirstTest.exe.config
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\obj\Debug\CodeFirstTest.exe
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\obj\Debug\CodeFirstTest.pdb
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\CodeFirstTest.exe
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\CodeFirstTest.pdb
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\EntityFramework.dll
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\EntityFramework.SqlServer.dll
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\Vektorel.Esvap.Domain.dll
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\ESVAP.BASECORE.dll
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\Vektorel.Esvap.Domain.pdb
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\EntityFramework.xml
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\EntityFramework.SqlServer.xml
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\ESVAP.BASECORE.pdb
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\obj\Debug\CodeFirstTest.csprojResolveAssemblyReference.cache
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\Vektorel.Esvap.Datacore.dll
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\CodeFirstTest\bin\Debug\Vektorel.Esvap.Datacore.pdb

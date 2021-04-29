@@ -1,0 +1,17 @@
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\Vektorel.Esvap.Datacore\bin\Debug\Vektorel.Esvap.Datacore.dll.config
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\Vektorel.Esvap.Datacore\bin\Debug\Vektorel.Esvap.Datacore.dll
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\Vektorel.Esvap.Datacore\bin\Debug\Vektorel.Esvap.Datacore.pdb
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\Vektorel.Esvap.Datacore\bin\Debug\EntityFramework.dll
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\Vektorel.Esvap.Datacore\bin\Debug\EntityFramework.SqlServer.dll
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\Vektorel.Esvap.Datacore\bin\Debug\ESVAP.BASECORE.dll
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\Vektorel.Esvap.Datacore\bin\Debug\Vektorel.Esvap.Domain.dll
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\Vektorel.Esvap.Datacore\bin\Debug\ESVAP.BASECORE.pdb
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\Vektorel.Esvap.Datacore\bin\Debug\Vektorel.Esvap.Domain.pdb
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\Vektorel.Esvap.Datacore\bin\Debug\EntityFramework.xml
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\Vektorel.Esvap.Datacore\bin\Debug\EntityFramework.SqlServer.xml
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\Vektorel.Esvap.Datacore\obj\Debug\Vektorel.Esvap.Datacore.csprojResolveAssemblyReference.cache
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\Vektorel.Esvap.Datacore\obj\Debug\Vektorel.Esvap.Datacore.dll
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\Vektorel.Esvap.Datacore\obj\Debug\Vektorel.Esvap.Datacore.pdb
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\Vektorel.Esvap.Datacore\obj\Debug\Vektorel.Esvap.Datacore.Migrations.firstMig.resources
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\Vektorel.Esvap.Datacore\obj\Debug\Vektorel.Esvap.Datacore.csproj.GenerateResource.Cache
+D:\SonerHoca\19 Şubat 2020\Vektorel.Esvap.App\Vektorel.Esvap.Datacore\obj\Debug\Vektorel.Esvap.Datacore.Migrations.secondMig.resources
